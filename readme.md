@@ -24,13 +24,13 @@
 - &nbsp; GIT
 - &nbsp; React JS
 - &nbsp; Node JS
+- &nbsp; Next JS
 - &nbsp; NPM scripts
 
 <h3>🎓Want to lern</h3>
 
 - &nbsp; GSAP
 - &nbsp; React Hooks
-- &nbsp; GatsbyJS
 - &nbsp; Websockets
 - &nbsp; Electron
 
